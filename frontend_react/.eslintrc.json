@@ -15,18 +15,6 @@
         "react"
     ],
     "rules": {
-        // "jsx-a11y/anchor-has-content": [ 2, {
-        //     "components": [ "Anchor" ]
-        //   }],
-        //   "import/no-anonymous-default-export": ["error", {
-        //     "allowArray": false,
-        //     "allowArrowFunction": false,
-        //     "allowAnonymousClass": false,
-        //     "allowAnonymousFunction": false,
-        //     "allowCallExpression": true, // The true value here is for backward compatibility
-        //     "allowNew": false,
-        //     "allowLiteral": true,
-        //     "allowObject": false
-        //   }]
+        "react/prop-types": "off"
     }
 }
