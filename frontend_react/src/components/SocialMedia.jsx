@@ -16,12 +16,12 @@ const SocialMedia = () => {
           </a>
         </div>
         <div>
-          <a href="https://www.sherwinmontanez0@gmail.com" target='_blank'>
+          <a href="https://www.sherwinmontanez0@gmail.com" target='_blank' rel='noreferrer'>
             <FaEnvelope />
           </a>
         </div>
         <div>
-          <a href="https://github.com/Smontan" target='_blank'>
+          <a href="https://github.com/Smontan" target='_blank' rel='noreferrer'>
             <BsGithub />
           </a>
         </div>
