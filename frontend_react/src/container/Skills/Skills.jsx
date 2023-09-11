@@ -34,7 +34,7 @@ const Skills = () => {
     color: 'var(--gray-color)',
     textAlign: 'center',
     lineHeight: '1.5',
-    opacity: '1',
+    // opacity: '1',
     '@media screen and (min-width: 2000px)': {
       fontSize: '1.75rem',
       maxWidth: '500px',
@@ -90,6 +90,7 @@ const Skills = () => {
                           id={work.name}
                           effect="solid"
                           arrowColor="#313bac"
+                          opacity="1"
                           // className="skills-tooltip"
                           style={styles}  
                         >
